@@ -1,0 +1,343 @@
+"lan":{
+"zh":"中文"
+"en":"English"
+"ru":"Русский"
+}
+"zh":{
+"MainForm.label_advance":"场景"
+"MainForm.label_funny":"趣味"
+"MainForm.label_about":"关于"
+"MainForm.label_setting":"设置"
+"MainForm.label_connect.on":"已连接"
+"MainForm.label_connect.off":"未连接"
+"MainForm.labelDeviceName":"设备号"
+"MainForm.labelScreenName":"屏幕号"
+"MainForm.labelOnline":"无线设备"
+"MainForm.comboBoxWireless.default":"全部设备"
+"MainForm.comboBoxWireless.deny":"禁用无线"
+"UserAdvanceControls.labelScreen":"观影"
+"AdvanceControlMovice.labelLevel0":"微弱"
+"AdvanceControlMovice.labelLevel1":"正常"
+"AdvanceControlMovice.labelLevel2":"高速"
+
+"UserAdvanceControls.labelMusic":"音乐"
+"AdvanceControlMusic.labelFreq":"频谱"
+"AdvanceControlMusic.labelElectronic":"电音"
+"AdvanceControlMusic.labelSmooth":"听歌"
+
+"UserAdvanceControls.labelKey":"趣味"
+"AdvanceControlKeyboard.labelOnlyMouse":"鼠标捕获"
+"AdvanceControlKeyboard.labelOnlyKeyboard":"键盘捕获"
+"AdvanceControlKeyboard.labelMouseAndKeyboard":"键鼠捕获"
+====================================== 
+# 趣味模式
+======================================
+"UserFunnyControls.labelRainbow":"彩虹"
+"UserFunnyControls.labelFire":"火焰"
+"UserFunnyControls.labelReading":"阅读"
+"UserFunnyControls.labelFireworks":"烟花"
+"UserFunnyControls.labelStar":"星空"
+"UserFunnyControls.labelWater":"水滴"
+"UserFunnyControls.labelParticle":"粒子"
+"UserFunnyControls.labelFluid":"流体"
+"UserFunnyControls.labelBall":"小球"
+"UserFunnyControls.labelSwing":"秋千"
+"UserFunnyControls.labelBreath":"呼吸"
+"UserFunnyControls.labelColor":"纯色"
+====================================== 
+# 设置
+======================================
+"UserSettingControls.labelLightType":"一、请选择灯具类型"
+"UserSettingControls.labelLightStrip":"灯带"
+"UserSettingControls.labelStandLamp":"立柱灯"
+"UserSettingControls.labelSetupPlace":"安装方式"
+"UserSettingControls.labelLeftSetup":"左边安装"
+"UserSettingControls.labelRightSetup":"右边安装"
+"UserSettingControls.labelOtherSetting":"其他设置"
+"UserSettingControls.labelLanguageChoose":"语言选择"
+"UserSettingControls.labelBootStart":"开机启动"
+"UserSettingControls.labelCheckUpdate":"检查更新"
+"UserSettingControls.labelSerial":"设备号"
+"UserSettingControls.labelScreen":"屏幕号"
+"UserSettingControls.labelNet":"智能联动"
+"UserSettingControls.labelEcoMode":"节能模式"
+"UserSettingControls.labelBECTopBottom":"上下补偿"
+"UserSettingControls.labelBECLeftRight":"左右补偿"
+"UserSettingControls.labelExternPort1":"拓展口A"
+"UserSettingControls.labelExternPort2":"拓展口B"
+"UserSettingControls.top":"同步顶边"
+"UserSettingControls.right":"同步右边"
+"UserSettingControls.bottom":"同步底部"
+"UserSettingControls.left":"同步左部"
+"UserSettingControls.labelResetNetwork":"复位设置"
+"UserSettingControls.buttonResetNetwork":"复位"
+"UserSettingControls.ResetMessageBox.text":"此操作将使设备 <{0}> 恢复出厂设置，确定执行吗？"
+"UserSettingControls.ResetMessageBox.caption":"温馨提示"
+"UserSettingControls.labelSerialImg":"设备ID 号"
+"UserSettingControls.labelScreenImg":"灯光同步屏幕号"
+"UserSettingControls.labelNetImg":"设备互联控制开关，当该功能开启后支持该功能的其他设备可以同屏联动"
+"UserSettingControls.labelCheckUpdateImg":"软件自动更新检查，开启后将会自动推送更新"
+"UserSettingControls.labelBootStartImg":"软件自启动，启动该功能则每次电脑开机后软件会自动运行"
+"UserSettingControls.labelEcoModeImg":"开关开启后，同屏模式下，关闭软件或关机后5S，灯光随之关闭"
+"UserSettingControls.labelBECTopBottomImg":"黑色的边缘补偿。 在电影模式下，对屏幕上下的黑色部分进行颜色补偿。"
+"UserSettingControls.labelBECLeftRightImg":"黑色的边缘补偿。 在电影模式下，对屏幕左右的黑色部分进行颜色补偿。"
+"UpdateForm.labelAutoUpdateTitle":"自动更新"
+"UpdateForm.labelRecieve":"已接收:"
+"UpdateForm.labelUpSpeed":"速度:"
+"UpdateForm.labelTotal":"总共:"
+"UpdateForm.buttonClose.WaitDownLoad":"等待下载完毕"
+"UpdateForm.buttonClose.WaitUpdate":"等待下载"
+"UpdateForm.buttonClose.Finish":"完成下载"
+====================================== 
+# 检测更新
+======================================
+"UpdateForm.labelTitle":"检测更新"
+"UpdateForm.labellabelCheckBox":"不再提示"
+"UpdateForm.roundButtonCancel":"取消"
+"UpdateForm.roundButtonUpdate":"立即更新"
+====================================== 
+# 关于
+======================================
+"AboutPanel.labelTitle":"Made by Beelight"
+"AboutPanel.labelContent":"当前软件版本：V"
+"AboutPanel.labelVersions":"当前硬件版本：V"
+"AboutPanel.roundButton1":"更新到最新版本"
+"AboutPanel.labelCopyrightIfon":"Copyright  2019-2022. Glowwrom.All Rights Reserved.萤火虫公司  版权所有"
+"AboutPanel.linkLabel1":"《软件使用许可协议》"
+"AboutPanel.linkLabel2":"《隐私声明》"
+====================================== 
+# 检测连接
+======================================
+"ConnectError.labelText":"请检查连接"
+"ConnectError.roundButtonResetClose":"关闭"
+}
+
+"en":{
+
+"MainForm.label_advance":"SCENES"
+
+"MainForm.label_funny":"Funny"
+
+"MainForm.label_about":"ABOUT"
+
+"MainForm.label_setting":"SETTING"
+"MainForm.labelOnline":"Wireless"
+"MainForm.label_connect.on":"Connected"
+
+"MainForm.label_connect.off":"Disconnected"
+"MainForm.labelDeviceName":"Device"
+"MainForm.labelScreenName":"Screen"
+"MainForm.comboBoxWireless.default":"Select All"
+"MainForm.comboBoxWireless.deny":"Disable All"
+
+"UserAdvanceControls.labelScreen":"MOVIE"
+"AdvanceControlMovice.labelLevel0":"Smooth"
+"AdvanceControlMovice.labelLevel1":"Normal"
+"AdvanceControlMovice.labelLevel2":"High"
+
+"UserAdvanceControls.labelMusic":"MUSIC"
+"AdvanceControlMusic.labelFreq":"Spectrum"
+"AdvanceControlMusic.labelElectronic":"Electronic"
+"AdvanceControlMusic.labelSmooth":"Lyricism"
+
+"UserAdvanceControls.labelKey":"MOOD"
+"AdvanceControlKeyboard.labelOnlyMouse":"Mouse Only"
+"AdvanceControlKeyboard.labelOnlyKeyboard":"Keyboard Only"
+"AdvanceControlKeyboard.labelMouseAndKeyboard":"Mouse And Keyboard"
+====================================== 
+# 趣味模式
+======================================
+"UserFunnyControls.labelRainbow":"Rainbow"
+"UserFunnyControls.labelFire":"Fire"
+"UserFunnyControls.labelReading":"Read"
+"UserFunnyControls.labelFireworks":"Firework"
+"UserFunnyControls.labelStar":"Star"
+"UserFunnyControls.labelWater":"Drip"
+"UserFunnyControls.labelParticle":"Particle"
+"UserFunnyControls.labelFluid":"Flow"
+"UserFunnyControls.labelBall":"Ball"
+"UserFunnyControls.labelSwing":"Swing"
+"UserFunnyControls.labelBreath":"Breathe"
+"UserFunnyControls.labelColor":"Pure"
+====================================== 
+# 设置
+======================================
+"UserSettingControls.labelLightType":"1.Please Select Light Type"
+"UserSettingControls.labelLightStrip":"Light Strip"
+"UserSettingControls.labelStandLamp":"Stand Lamp"
+"UserSettingControls.labelSetupPlace":"Setup Mode"
+"UserSettingControls.labelLeftSetup":"Left Setup"
+"UserSettingControls.labelRightSetup":"Right Setup"
+"UserSettingControls.labelOtherSetting":"Other Setting"
+"UserSettingControls.labelLanguageChoose":"Language"
+"UserSettingControls.labelBootStart":"Auto Start"
+"UserSettingControls.labelCheckUpdate":"Update Check"
+"UserSettingControls.labelSerial":"Device"
+"UserSettingControls.labelScreen":"Screen"
+"UserSettingControls.labelNet":"Interconnect"
+"UserSettingControls.labelEcoMode":"Auto Off"
+"UserSettingControls.labelBECTopBottom":"TOP BAR"
+"UserSettingControls.labelBECLeftRight":"SIDE BAR"
+"UserSettingControls.labelExternPort1":"Extern A"
+"UserSettingControls.labelExternPort2":"Extern B"
+"UserSettingControls.top":"Sync top"
+"UserSettingControls.right":"Sync right"
+"UserSettingControls.bottom":"Sync bottom"
+"UserSettingControls.left":"Sync left"
+"UserSettingControls.labelResetNetwork":"Factory Setting"
+"UserSettingControls.buttonResetNetwork":"Factory"
+"UserSettingControls.ResetMessageBox.text":"This operation will restore the device < {0} > to factory settings. Are you sure to perform this operation?"
+"UserSettingControls.ResetMessageBox.caption":"Notices"
+"UserSettingControls.labelSerialImg":"Device ID"
+"UserSettingControls.labelScreenImg":"Display"
+"UserSettingControls.labelNetImg":"When it's on, it can sync with other\nlighting devices if there is any."
+"UserSettingControls.labelCheckUpdateImg":"When it's on, software updates will be avaialbe\nto see, user can decide to update or not."
+"UserSettingControls.labelBootStartImg":"When it's on, the software will auto \non when the PC is powered on."
+"UserSettingControls.labelEcoModeImg":"When it's on, the lights will auto off \nunder sync mode if the the software is\nclosed or PC is power off. "
+"UserSettingControls.labelBECTopBottomImg":"Bar Auto Refill: Automatically\ncompensate the light for the top and\nbottom black side of the movie."
+"UserSettingControls.labelBECLeftRightImg":"Bar Auto Refill: Automatically\ncompensate the light for the left and\nright black side of the movie."
+"UpdateForm.labelAutoUpdateTitle":"Auto Update"
+"UpdateForm.labelRecieve":"recieve:"
+"UpdateForm.labelUpSpeed":"speed:"
+"UpdateForm.labelTotal":"total:"
+"UpdateForm.buttonClose.WaitDownLoad":"download.."
+"UpdateForm.buttonClose.WaitUpdate":"update.."
+"UpdateForm.buttonClose.Finish":"Finish"
+====================================== 
+# 检测更新
+======================================
+"UpdateForm.labelTitle":"Detection of Update"
+"UpdateForm.labellabelCheckBox":"No longer hint"
+"UpdateForm.roundButtonCancel":"Cancel"
+"UpdateForm.roundButtonUpdate":"Update now"
+====================================== 
+# 关于
+======================================
+"AboutPanel.labelTitle":"Made by Beelight"
+"AboutPanel.labelContent":"Current Version：V"
+"AboutPanel.labelVersions":"Hardware Version：V"
+"AboutPanel.roundButton1":"Update to the latest version"
+"AboutPanel.labelCopyrightIfon":"Copyright  2019-2022. Glowwrom.All Rights Reserved."
+"AboutPanel.linkLabel1":"《Software license Agreement》"
+"AboutPanel.linkLabel2":"《 Privacy Statement 》"
+====================================== 
+# 检测连接
+======================================
+"ConnectError.labelText":"Please check the connection"
+"ConnectError.roundButtonResetClose":"Close"
+}
+
+"ru":{
+
+"MainForm.label_advance":"СЦЕНЫ"
+
+"MainForm.label_funny":"Забавы"
+
+"MainForm.label_about":"ИНФО"
+
+"MainForm.label_setting":"НАСТР.."
+"MainForm.labelOnline":"Беспроводное"
+"MainForm.label_connect.on":"Подключено"
+
+"MainForm.label_connect.off":"Отключено"
+"MainForm.labelDeviceName":"Устройство"
+"MainForm.labelScreenName":"Монитор"
+"MainForm.comboBoxWireless.default":"Выбрать все"
+"MainForm.comboBoxWireless.deny":"Отключить все"
+
+"UserAdvanceControls.labelScreen":"КИНО"
+"AdvanceControlMovice.labelLevel0":"Плавное"
+"AdvanceControlMovice.labelLevel1":"Нормальное"
+"AdvanceControlMovice.labelLevel2":"Быстрое"
+
+"UserAdvanceControls.labelMusic":"МУЗЫКА"
+"AdvanceControlMusic.labelFreq":"Спектр"
+"AdvanceControlMusic.labelElectronic":"Электронная"
+"AdvanceControlMusic.labelSmooth":"Лирическая"
+
+"UserAdvanceControls.labelKey":"НАСТРОЙ"
+"AdvanceControlKeyboard.labelOnlyMouse":"Только мышь"
+"AdvanceControlKeyboard.labelOnlyKeyboard":"Только клавиатура"
+"AdvanceControlKeyboard.labelMouseAndKeyboard":"Мышь и клавиатура"
+====================================== 
+# 趣味模式
+======================================
+"UserFunnyControls.labelRainbow":"Радуга"
+"UserFunnyControls.labelFire":"Огонь"
+"UserFunnyControls.labelReading":"Чтение"
+"UserFunnyControls.labelFireworks":"Салют"
+"UserFunnyControls.labelStar":"Звезда"
+"UserFunnyControls.labelWater":"Капли"
+"UserFunnyControls.labelParticle":"Частица"
+"UserFunnyControls.labelFluid":"Поток"
+"UserFunnyControls.labelBall":"Мяч"
+"UserFunnyControls.labelSwing":"Качели"
+"UserFunnyControls.labelBreath":"Дыхание"
+"UserFunnyControls.labelColor":"Цвет"
+====================================== 
+# 设置
+======================================
+"UserSettingControls.labelLightType":"1.Пожалуйста, выберите тип освещения"
+"UserSettingControls.labelLightStrip":"Световая полоса"
+"UserSettingControls.labelStandLamp":"Настольная лампа"
+"UserSettingControls.labelSetupPlace":"Режим настройки"
+"UserSettingControls.labelLeftSetup":"Установлен слева"
+"UserSettingControls.labelRightSetup":"Установлен справа"
+"UserSettingControls.labelOtherSetting":"Дополнительно"
+"UserSettingControls.labelLanguageChoose":"Язык"
+"UserSettingControls.labelBootStart":"Авто вкл."
+"UserSettingControls.labelCheckUpdate":"Обновления"
+"UserSettingControls.labelSerial":"Устройство"
+"UserSettingControls.labelScreen":"Монитор"
+"UserSettingControls.labelNet":"Соединение"
+"UserSettingControls.labelEcoMode":"Авто выкл."
+"UserSettingControls.labelBECTopBottom":"Верт. полосы"
+"UserSettingControls.labelBECLeftRight":"Гориз. полосы"
+"UserSettingControls.labelExternPort1":"Extern A"
+"UserSettingControls.labelExternPort2":"Extern B"
+"UserSettingControls.top":"Синхронизация сверху"
+"UserSettingControls.right":"Синхронизация справа"
+"UserSettingControls.bottom":"Синхронизация снизу"
+"UserSettingControls.left":"Синхронизация слева"
+"UserSettingControls.labelResetNetwork":"Заводская настройка"
+"UserSettingControls.buttonResetNetwork":"Заводская"
+"UserSettingControls.ResetMessageBox.text":"Эта операция восстановит заводские настройки устройства < {0} >. Вы уверены, что нужно выполнять эту операцию?"
+"UserSettingControls.ResetMessageBox.caption":"Уведомления"
+"UserSettingControls.labelSerialImg":"ID устройства"
+"UserSettingControls.labelScreenImg":"Выберите к какому монитору подключено устройство"
+"UserSettingControls.labelNetImg":"Включите, чтобы синхронизироваться с другими \nустройствами, если таковые имеются."
+"UserSettingControls.labelCheckUpdateImg":"Включите, чтобы получать обновления ПО."
+"UserSettingControls.labelBootStartImg":"Включите, чтобы включать устройство автоматически, \nпосле включения ПК."
+"UserSettingControls.labelEcoModeImg":"Включите, чтобы выключать устройство автоматически, \nпосле выключения ПК."
+"UserSettingControls.labelBECTopBottomImg":"Определит наличие чёрных полос сверху и снизу\n в фильме, чтобы заполнить цветом."
+"UserSettingControls.labelBECLeftRightImg":"Определит наличие чёрных полос слева и справа\n в фильме, чтобы заполнить цветом."
+"UpdateForm.labelAutoUpdateTitle":"Автоматическое обновление"
+"UpdateForm.labelRecieve":"получено:"
+"UpdateForm.labelUpSpeed":"скорость:"
+"UpdateForm.labelTotal":"всего:"
+"UpdateForm.buttonClose.WaitDownLoad":"скачивание.."
+"UpdateForm.buttonClose.WaitUpdate":"обновление.."
+"UpdateForm.buttonClose.Finish":"Финал"
+====================================== 
+# 检测更新
+======================================
+"UpdateForm.labelTitle":"Обнаружено обновление"
+"UpdateForm.labellabelCheckBox":"Больше не спрашивать"
+"UpdateForm.roundButtonCancel":"Отмена"
+"UpdateForm.roundButtonUpdate":"Обновить сейчас"
+====================================== 
+# 关于
+======================================
+"AboutPanel.labelTitle":"Сделано в Beelight"
+"AboutPanel.labelContent":"Текущая версия：V"
+"AboutPanel.labelVersions":"Версия оборудования：V"
+"AboutPanel.roundButton1":"Обновите до последней версии"
+"AboutPanel.labelCopyrightIfon":"Copyright  2019-2022. Glowwrom.All Rights Reserved."
+"AboutPanel.linkLabel1":"Лицензионное соглашение на ПО"
+"AboutPanel.linkLabel2":"Конфиденциальность"
+====================================== 
+# 检测连接
+======================================
+"ConnectError.labelText":"Пожалуйста, проверьте подключение"
+"ConnectError.roundButtonResetClose":"Отмена"
+}
